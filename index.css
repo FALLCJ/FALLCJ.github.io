@@ -1,0 +1,111 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+#spinner {
+	width: 500px;
+	height: 350px;
+}
+
+#spinner-header {
+	width: 750px;
+	height: 150px;
+}
+
+#project {
+	color: #000;
+}
+
+body {
+  	background-color: #ffffff;
+  	font-family: 'Montserrat', sans-serif;
+}
+
+h1, h4 {
+	color: #000000;
+}
+
+h1 {
+	font-size: 50px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+p {
+    line-height: 30px;
+    margin-bottom: 25px;
+    font-size: 15px;
+}
+
+a {
+    color: #ffffff;
+    word-wrap: break-word;
+}
+
+a:hover, a:focus {
+    color: #000000;
+    text-decoration: none;
+    outline: 0;
+}
+
+img {
+	width: 175px;
+	height: 175px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.navbar {
+	text-transform: uppercase;
+	margin-bottom: 0px;
+}
+
+.navbar-inverse {
+	padding-bottom: 70px;
+	padding-top: 70px;
+}
+
+.navbar-inverse {
+	background-color: #007799;
+	border-color: #007799;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: #ffffff;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+	color: #000000;
+}
+
+.navbar-brand {
+
+	font-size: 20px;
+	letter-spacing: 2px;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #ffffff;
+}
+
+#wrapper {
+	padding-top: 70px;
+	padding-bottom: 70px;
+	background-color: #f2f2f2;
+}
+
+#footer {
+	background-color: #00bbbb;
+	padding-top: 5px;
+	padding-bottom: 5px; 
+}
+
+#footer p {
+	color: white;
+}
+
+#footer h4 {
+	color: #ffffff;
+	margin-top: 40px;
+	text-transform: uppercase;
+	padding-bottom: 10px;
+}
